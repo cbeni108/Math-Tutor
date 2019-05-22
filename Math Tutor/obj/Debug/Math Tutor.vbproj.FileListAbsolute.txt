@@ -1,0 +1,12 @@
+C:\Users\Crist\source\repos\Math Tutor\Math Tutor\bin\Debug\Math Tutor.exe.config
+C:\Users\Crist\source\repos\Math Tutor\Math Tutor\bin\Debug\Math Tutor.exe
+C:\Users\Crist\source\repos\Math Tutor\Math Tutor\bin\Debug\Math Tutor.pdb
+C:\Users\Crist\source\repos\Math Tutor\Math Tutor\bin\Debug\Math Tutor.xml
+C:\Users\Crist\source\repos\Math Tutor\Math Tutor\obj\Debug\Math Tutor.vbprojAssemblyReference.cache
+C:\Users\Crist\source\repos\Math Tutor\Math Tutor\obj\Debug\Math_Tutor.Form1.resources
+C:\Users\Crist\source\repos\Math Tutor\Math Tutor\obj\Debug\Math_Tutor.Resources.resources
+C:\Users\Crist\source\repos\Math Tutor\Math Tutor\obj\Debug\Math Tutor.vbproj.GenerateResource.cache
+C:\Users\Crist\source\repos\Math Tutor\Math Tutor\obj\Debug\Math Tutor.vbproj.CoreCompileInputs.cache
+C:\Users\Crist\source\repos\Math Tutor\Math Tutor\obj\Debug\Math Tutor.exe
+C:\Users\Crist\source\repos\Math Tutor\Math Tutor\obj\Debug\Math Tutor.xml
+C:\Users\Crist\source\repos\Math Tutor\Math Tutor\obj\Debug\Math Tutor.pdb
